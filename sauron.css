@@ -1,9 +1,9 @@
-.container-fluid{
+.container{
 /*border: 1px solid black;*/
 }
 
 .row{
-  height: 8vw;
+  height: 6vw;
 }
 
 .col{
