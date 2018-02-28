@@ -1,0 +1,27 @@
+.container{
+/*border: 1px solid black;*/
+}
+
+.row{
+  height: 6vw;
+}
+
+.col{
+  border: 1px solid white;
+}
+
+.cell_grey{
+  background-color: grey;
+}
+
+.cell_black{
+  background-color: black;
+}
+
+.cell_yellow{
+  background-color: yellow;
+}
+
+.cell_orange{
+  background-color: orange;
+}
